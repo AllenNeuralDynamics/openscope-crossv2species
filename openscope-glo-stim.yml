@@ -1,4 +1,4 @@
-name: openscope-glo-stim
+name: openscope-crossv2species-stim
 channels:
 - defaults
 dependencies:
