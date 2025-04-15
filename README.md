@@ -1,4 +1,4 @@
-# GlobalLocalOddballs stimulus generation code
+# Crossv2species stimulus generation code
 
 This repository contains the original code used to generate the stimuli for the **crossv2species project**, an [OpenScope](https://alleninstitute.org/what-we-do/brain-science/news-press/press-releases/openscope-first-shared-observatory-neuroscience) project.
 &nbsp;
